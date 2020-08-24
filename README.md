@@ -1,1 +1,1 @@
-Full description/explanation in the pynb file
+Full description/explanation in the ipynb file
